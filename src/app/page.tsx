@@ -37,7 +37,7 @@ export default function HomePage() {
             </div>
             
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-              Deploy Your Apps --- okay its easy
+              Deploy Your Apps --- okay its easy for you?
               <br />
               <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
                 With Ease and Control
