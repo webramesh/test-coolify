@@ -40,7 +40,7 @@ export default function HomePage() {
               Deploy Your Apps
               <br />
               <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-                With Ease
+                With Ease and Control
               </span>
             </h1>
             
